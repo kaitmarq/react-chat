@@ -1,7 +1,7 @@
 # react-chat
 Building a Real-time Chat App with React, Node.Js and Firebase
 
-# **Source**
+## **Source**
 
 This project was built following a blog post by Timonwa Akintokun, linked here: https://www.freecodecamp.org/news/building-a-real-time-chat-app-with-reactjs-and-firebase/
 The purpose of the project was to become more familiar with React, node.js, and firebase for future projects, such as my Caterpillar Info Session!
